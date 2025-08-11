@@ -3,7 +3,7 @@ from modules.parser import parse_docx
 from modules.classifier import detect_doc_type
 from modules.checklist import get_process_and_missing_docs
 from modules.reviewer import run_basic_checks
-from modules.doc_writer import create_reviewed_doc
+from modules.docwriter import create_reviewed_doc
 import json
 import tempfile
 import os
