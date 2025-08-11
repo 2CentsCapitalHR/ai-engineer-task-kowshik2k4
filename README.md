@@ -3,7 +3,7 @@
 
 An AI-powered **ADGM compliance assistant** built with **Streamlit**.  
 This tool reviews `.docx` legal documents for **Abu Dhabi Global Market (ADGM)** business processes, detects missing mandatory documents, and highlights common compliance issues.
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2centstask-628bt8pzq7wuexdzedgekg.streamlit.app/)
 ---
 
 ## ✨ Features
